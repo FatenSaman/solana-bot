@@ -127,4 +127,4 @@ Discord: `@fatensaman1995`
 ## DISCLAIMER
 
 > [!IMPORTANT]
-> The use of this bot is at your own risk, and we are not responsible for any losses incurred while using the bot.
+> The use of this bot is at your own risk, and we are not responsible for any losses incurred while using the bot. 
