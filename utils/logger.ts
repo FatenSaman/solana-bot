@@ -1,4 +1,4 @@
-import winston from 'winston';
+import winston from 'winston'; 
 
 export const setUpLogger = () => {
   return winston.createLogger({
@@ -29,3 +29,4 @@ export const setUpLogger = () => {
     ],
   });
 };
+
